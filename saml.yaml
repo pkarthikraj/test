@@ -23,3 +23,12 @@ Resources:
                 Properties:
                   Path: /sam
                   Method: get
+            Tags:
+                - Key: BUSINESS_REGION
+                  Value: "NORTHAMERICA"
+                - Key: BUSINESS_UNIT
+                  Value: "RETAIL"
+                - Key: CLIENT
+                  Value: "NONE"
+                - Key: PLATFORM
+                  Value: "RTM"
